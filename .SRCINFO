@@ -14,4 +14,3 @@ pkgbase = slack-bin
 	sha256sums = SKIP
 
 pkgname = slack-bin
-
