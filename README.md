@@ -11,7 +11,7 @@ The package does **not** redistribute Slack binaries. Instead, it fetches the la
 To install this package using an AUR helper:
 
 ```bash
-yay -S slack
+yay -S slack-bin
 ```
 
 Slack will be downloaded directly from the official Slack CDN and installed.
