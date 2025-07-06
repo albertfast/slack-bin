@@ -1,4 +1,4 @@
-pkgbase = slack
+pkgbase = slack-bin
 	pkgdesc = Slack Desktop (official client)
 	pkgver = 4.43.51
 	pkgrel = 1
@@ -13,4 +13,4 @@ pkgbase = slack
 	source = https://downloads.slack-edge.com/desktop-releases/linux/x64/4.43.51/slack-4.43.51-0.1.el8.x86_64.rpm
 	sha256sums = SKIP
 
-pkgname = slack
+pkgname = slack-bin
